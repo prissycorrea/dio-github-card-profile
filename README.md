@@ -1,4 +1,4 @@
-# dio-github-card-profile
+# Github Profile Card
 O projeto consiste em um profile card que redireciona o usuário ao meu perfil no GitHub, foi desenvolvido como exercício para a aula introdução ao React Native do bootcamp Decola Tech da Avanade com a DIO.
 
 ## Preview do projeto
